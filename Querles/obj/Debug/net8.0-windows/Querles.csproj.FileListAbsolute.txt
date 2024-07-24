@@ -1,0 +1,17 @@
+C:\Users\יוסף\source\repos\Querles\Querles\bin\Debug\net8.0-windows\Querles.exe
+C:\Users\יוסף\source\repos\Querles\Querles\bin\Debug\net8.0-windows\Querles.deps.json
+C:\Users\יוסף\source\repos\Querles\Querles\bin\Debug\net8.0-windows\Querles.runtimeconfig.json
+C:\Users\יוסף\source\repos\Querles\Querles\bin\Debug\net8.0-windows\Querles.dll
+C:\Users\יוסף\source\repos\Querles\Querles\bin\Debug\net8.0-windows\Querles.pdb
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.csproj.GenerateResource.cache
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.AssemblyInfoInputs.cache
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.AssemblyInfo.cs
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.csproj.CoreCompileInputs.cache
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.dll
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\refint\Querles.dll
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.pdb
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.genruntimeconfig.cache
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\ref\Querles.dll
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.sourcelink.json
+C:\Users\יוסף\source\repos\Querles\Querles\obj\Debug\net8.0-windows\Querles.Queries.resources

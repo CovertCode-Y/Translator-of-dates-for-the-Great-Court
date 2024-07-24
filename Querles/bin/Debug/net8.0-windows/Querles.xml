@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query DayWeek="שני" DayMonth="24" Month="אדר" Year="תשפ''ז" />
+  <Query DayWeek="ששי" DayMonth="30" Month="אלול" Year="תשצ''ד" />
+  <query>
+    <day>שלישי</day>
+    <dayMonth>24</dayMonth>
+    <Month>טבת</Month>
+    <year>תשפ''ו</year>
+    <result>בשלישי בשבת עשרים וארבעה ימים לירח טבת שנת חמשת אלפים ושבע מאות ושמונים ושישה לבריאת העולם</result>
+  </query>
+</Queries>
